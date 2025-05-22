@@ -1,0 +1,11 @@
+<resources>
+    <!-- Base application theme -->
+    <style name="Theme.FakeCamera" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">#FF000000</item>
+        <item name="colorPrimaryDark">#FF000000</item>
+        <item name="colorAccent">#FF4081</item>
+        <!-- Make the app fullscreen -->
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>
